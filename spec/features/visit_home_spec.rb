@@ -7,8 +7,6 @@ feature 'Visit the home page' do
   end
 
   scenario 'Privacy' do
-    visit '/'
-    click_link 'Privacy'
 
   end
 
